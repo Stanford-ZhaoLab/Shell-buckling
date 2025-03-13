@@ -6,7 +6,7 @@ To run these codes (.nb file), Wolfram Mathematica must be installed. The code i
 Additionally, Abaqus input files (.inp file) for the finite element analyses (FEA) of Figure 6(a) & (b) and Figure 10(a) with R/h=200 are provided. Before running the input file for post-buckling analysis, first run the input file for critical buckling to generate the buckling mode, which serves as a geometric imperfection in the post-buckling analysis. In the input files, the shell thickness, Young’s modulus, imperfection amplitude, and pre-load value can be adjusted to study different cases.
 
 
-![image](https://github.com/user-attachments/assets/8170fc3d-e93c-43bf-aa94-35a401d52b51)
+![image](https://github.com/user-attachments/assets/3e272412-463d-4343-bdeb-7ff4db7e6121)
 
 
 # Citation
