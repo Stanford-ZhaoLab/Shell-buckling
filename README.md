@@ -10,4 +10,4 @@ Additionally, Abaqus input files (.inp file) for the finite element analyses (FE
 
 
 # Citation
-Lu, L., Leanza, S., Liu, Y., & Zhao, R. R. (2025). Buckling and post-buckling of cylindrical shells under combined torsional and axial loads. European Journal of Mechanics-A/Solids, 105653.
+Lu, L., Leanza, S., Liu, Y., & Zhao, R. R. (2025). Buckling and post-buckling of cylindrical shells under combined torsional and axial loads. European Journal of Mechanics-A/Solids, 112, 105653.
